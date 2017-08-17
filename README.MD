@@ -12,8 +12,9 @@ This sample test cover the following Objectives:
 
 ## Prerequisites
 
-Node JS installed
-WebdriverIO
+* Node JS installed
+* WebdriverIO
+
    - Create folder WebDriverIO
    - CD to WebDriverIO
    - npm init -y
@@ -34,13 +35,14 @@ c:\WebdriverIO\node_modules\.bin>wdio wdio.conf.js --suite login
 
 ## Reports
 
-The Reports currently are in xml and json format in the ".bin\reports" Folder, from here it's possible to integrate with Jenkins with some more time :).
+The Reports currently are in .xml and .json format and is being generated in the ".bin\reports" Folder, from here it's possible to integrate with Jenkins with some more time :).
 
 
 ## Notes
 * Firstly I had Troubles with my Node.js version it's important to update
 * Setup and configure WebdriverIO selecting all options it's having issue, was fixed selecting just appropriated options as you can see in the file configuration(Wdio.conf.js)
 * Test Runner troubles at the moment to run WEBDRIVERIO tests, Translated test to Mocha and everything go well :).
+* Some other more.... :)
     
 ## Additional Resources
 * Configured and run test  in https://www.browserstack.com/ to familiarize with the cross browser testing and integration with WebDriver.IO
