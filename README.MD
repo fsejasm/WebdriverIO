@@ -31,7 +31,7 @@ Currently was created in ./test/testspecs the following features login test:
 Easily can be changed to another system to login. I've used the Browserstack because it's interesting site to work with WEBDRIVERIO :).
 
 Use the following command starting in the path to allow run in parallel the Login tests: 
-c:\WebdriverIO\node_modules\.bin>wdio wdio.conf.js --suite login
+$\WebdriverIO\node_modules\.bin>wdio wdio.conf.js --suite login
 
 ## Reports
 
@@ -47,7 +47,7 @@ The Reports currently are in .xml and .json format and is being generated in the
 ## Additional Resources
 * Configured and run test  in https://www.browserstack.com/ to familiarize with the cross browser testing and integration with WebDriver.IO
 
-##Author
+## Author
 
 Frank Alain Sejas Maranon
 
