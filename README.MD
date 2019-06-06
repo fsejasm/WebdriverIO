@@ -51,7 +51,7 @@ The Reports currently are in .xml and .json format and is being generated in the
 Frank Alain Sejas Maranon 
 
 ##Additional Information
-  - I was integrated with Jenkins. More details comming soon!.
+  - It was integrated with Jenkins. More details comming soon!.
 
 
 
